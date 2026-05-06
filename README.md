@@ -12,5 +12,5 @@ This Unity project demonstrates data persistence between scenes and sessions.
 2. Click Start to launch the game.
 3. Break bricks to score points.
 4. If you beat the high score, your name and score are saved.
-5. Quit and relaunch — the high score persists.
+5. Quit and relaunch — the high score persists
 
